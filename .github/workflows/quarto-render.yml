@@ -1,7 +1,4 @@
-on: 
-  check_run:
-    types: [rerequested, completed]
-
+on: [workflow_dispatch]
 # Un-comment the following lines (and comment out the first one) to make this a scheduled job
 #on:
 #  schedule:

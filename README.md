@@ -8,7 +8,7 @@ Report last run: 2023-04-06 22:07:43
 This is an example report that uses COVID-19 data from the New York
 Times to illustrate the use of automation processes.
 
-First, we load some necessary libraries, define some key variables, then
+First, we load some necessary libraries, and define some key variables, then
 read in the data:
 
 ``` r
